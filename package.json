@@ -1,0 +1,22 @@
+{
+  "name": "isahbalarabe",
+  "version": "1.0.0",
+  "description": "coding",
+  "main": "jquery-3.6.1.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devetech0/PHP.git"
+  },
+  "author": "bala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devetech0/PHP/issues"
+  },
+  "homepage": "https://github.com/devetech0/PHP#readme",
+  "keywords": [
+    "balarabe"
+  ]
+}
